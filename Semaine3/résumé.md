@@ -21,8 +21,8 @@ Quelques exemples :
 
 Oeuvres vues en class: 
 
-1. Granular Synthesis - MODELL5 1994-1996 / https://iffr.com/en/iffr/2008/films/modell-5 / https://www.youtube.com/watch?v=ATWljMbvVTg
-2. Mario Klingemann (overall work) / https://aiartists.org/mario-klingemann
-3. MATTHEW BIEDERMAN (QC) Serial Mutations 2020 / https://www.elektramontreal.ca/hyundai-matthew-biederman / https://vimeo.com/85194805
+1. Granular Synthesis (DE) - MODELL5 1994-1996 / https://iffr.com/en/iffr/2008/films/modell-5 / https://www.youtube.com/watch?v=ATWljMbvVTg
+2. Mario Klingemann (DE) / https://aiartists.org/mario-klingemann
+3. Matthew Biederman (QC) Serial Mutations 2020 / https://www.elektramontreal.ca/hyundai-matthew-biederman / https://vimeo.com/85194805
 
 

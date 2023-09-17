@@ -17,7 +17,12 @@ Dans le cours de la semaine 3 sur l'image matricielle nous allons nous concentre
 Quelques exemples :
 
 1. Transformation générative d'une image
-2. Exemple inspiré de MODEL5 (1993) de Granular Synthesis / manipulation de frame dans une video 
+2. Exemple inspiré de MODELL5 (1994-96) de Granular Synthesis / manipulation de frame dans une video 
 
+Oeuvres vues en class: 
+
+1. Granular Synthesis - MODELL5 1994-1996 / https://iffr.com/en/iffr/2008/films/modell-5 / https://www.youtube.com/watch?v=ATWljMbvVTg
+2. Mario Klingemann (overall work) / https://aiartists.org/mario-klingemann
+3. MATTHEW BIEDERMAN (QC) Serial Mutations 2020 / https://www.elektramontreal.ca/hyundai-matthew-biederman / https://vimeo.com/85194805
 
 

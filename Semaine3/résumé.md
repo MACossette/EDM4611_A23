@@ -19,7 +19,7 @@ Quelques exemples :
 1. Transformation générative d'une image
 2. Exemple inspiré de MODELL5 (1994-96) de Granular Synthesis / manipulation de frame dans une video 
 
-Oeuvres vues en class: 
+Oeuvres vues en classe: 
 
 1. Granular Synthesis (DE) - MODELL5 1994-1996 / https://iffr.com/en/iffr/2008/films/modell-5 / https://www.youtube.com/watch?v=ATWljMbvVTg
 2. Mario Klingemann (DE) / https://aiartists.org/mario-klingemann

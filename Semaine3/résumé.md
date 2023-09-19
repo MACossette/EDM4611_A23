@@ -14,6 +14,10 @@ Dans le cours de la semaine 3 sur l'image matricielle nous allons nous concentre
 9. Sélectionner dynamiquement un fichier dans un dossier à l'aide de Python et du folder DAT
 10. Sauvegarder une image ou une video à l'aide du moviefileout TOP
 
+Aide pour la programmation en Python sur Touchdesigner 
+
+1. https://derivative.ca/UserGuide/Python_Tips
+
 Quelques exemples :
 
 1. Transformation générative d'une image
@@ -24,5 +28,7 @@ Oeuvres vues en classe:
 1. Granular Synthesis (DE) - MODELL5 1994-1996 / https://iffr.com/en/iffr/2008/films/modell-5 / https://www.youtube.com/watch?v=ATWljMbvVTg
 2. Mario Klingemann (DE) / https://aiartists.org/mario-klingemann
 3. Matthew Biederman (QC) Serial Mutations 2020 / https://www.elektramontreal.ca/hyundai-matthew-biederman / https://vimeo.com/85194805
+
+
 
 

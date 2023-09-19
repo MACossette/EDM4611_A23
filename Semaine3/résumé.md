@@ -42,6 +42,7 @@ Exercies pour l'atelier :
 8. Créer une mosaique de video en utilisant les techniques démontrées en classe.
 9. Tenter de créer des tuiles et jouer avec les U, V afin de modifier la vidéo dans chaque case de la mosaique 
 
+Exemple commit. 
 
 
 

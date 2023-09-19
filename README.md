@@ -10,3 +10,6 @@ donc certain exemples de code seront créé en classe et téléversés sur le re
 ### Organisation du repository
 Chaque dossier correspond à une semaine thématique. Ils contiennent les exemples, ainsi que d'autre matériel d'inspiration ou des liens vers du contenu complémentaire au cours. 
 
+### Ressource pour Touchdesigner: Matthew Ragan 
+https://matthewragan.com/teaching-resources/touchdesigner/#courses 
+

@@ -17,6 +17,7 @@ Dans le cours de la semaine 3 sur l'image matricielle nous allons nous concentre
 Aide pour la programmation en Python sur Touchdesigner 
 
 1. https://derivative.ca/UserGuide/Python_Tips
+2. Référence Python pour le random (import random) https://docs.python.org/3/library/random.html#examples
 
 Quelques exemples :
 

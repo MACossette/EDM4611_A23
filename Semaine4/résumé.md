@@ -11,6 +11,7 @@ Contenu du cours
 7. Créer des instances avec copy SOP 
 8. Utiliser un tracé SVG dans Touchdesigner 
 9. Créer un render network 
+10. Interference Patterns with CHOP
 
 Oeuvres vues en classes
 1. House of Moiré (VR 2023) https://store.steampowered.com/app/2100760/House_of_Moir/

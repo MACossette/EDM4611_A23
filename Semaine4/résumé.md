@@ -24,5 +24,6 @@ Exercices:
 3. Avec l'exercice 2 ajouter un feedback network et manipulez le pour créer de nouveaux mouvements
 4. Changer l'ordre de tracage des points d'une géométrie avec le app SOP et transformer le tracé en temps réel 
 5. Créer des "waves" générative (reproduction de Akten) - plusieurs méthodes possibles! 
-6. Déterminer la position des points d'une image prise en temps réel (webcam) avec le edge TOP / trace SOP et sopto CHOP (processus utilisé par Rokeby) 
+6. Déterminer la position des points d'une image prise en temps réel (webcam) avec le edge TOP / trace SOP et sopto CHOP (processus utilisé par Rokeby)
+7. Créer des effets de moiré (avec le copy SOP, avec le add SOP ou autre!) 
 

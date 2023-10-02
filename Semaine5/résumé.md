@@ -19,3 +19,11 @@ Oeuvres:
 
 Référence: 
 1. SOP Cheat Sheet: https://forum.derivative.ca/t/sop-cheat-sheet-w-pics-wiki-mode/275002
+
+Exercices: 
+1. Créer des formes génératives composée de plusieurs copies d'objets 3D (plusieurs méthodes)
+2. Créer un city skyline abstrait de façon générative (faire un fly by?)
+3. Modéliser un objet de façon procédurale
+4. Paramétriser l'objet pour créer une inifité de variations
+5. Appliquer des textures sur l'exemple de la pomme
+6. Créer une scène inspiré de Monotau (landscape, forme générative, instance, etc.)

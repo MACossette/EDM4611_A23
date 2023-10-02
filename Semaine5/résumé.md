@@ -1,5 +1,5 @@
 # EDM4611 - Semaine 5
-### L’aléatoire et la visualisation de données
+### Création en 3D 
 
 
 Contenu du cours: 

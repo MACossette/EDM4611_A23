@@ -13,7 +13,7 @@ Ressources
 
 Oeuvres vues en classe: 
 1. Melodysheep - Museum of Alien Life Part 2 (2020) - https://youtu.be/ThDYazipjSI?si=m7dfnBNcqya86gGY&t=107 
-2. Antoni Gaudi (1852 - 1926) - https://whc.unesco.org/en/list/320/
+2. Antoni Gaudi (1852 - 1926) - https://whc.unesco.org/en/list/320/ / Santiago Calatrava - https://calatrava.com/projects.html?all=yes
 3. Ashley Mills (Evolutionary design) - https://www.ashleymills.com/art/evoart/
 
 Exercices: 

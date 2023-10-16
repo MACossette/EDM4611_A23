@@ -8,7 +8,7 @@ Contenu du cours
 
 Oeuvres vue en classes
 1. Christopher Salter & Alexandre Saunier - SNN#2 (2022) https://www.youtube.com/watch?v=YrCMXsXzs7I
-2. Erik Adigard, Sofian Audry, FM Einheit, Dietmar Lupfer, Chris Salter, Alexandre Saulnier, Alex Schweder et Sissel Tolaas - Sense Factory (2022) 
+2. Erik Adigard, Sofian Audry, FM Einheit, Dietmar Lupfer, Chris Salter, Alexandre Saulnier, Alex Schweder et Sissel Tolaas - Sense Factory (2022) https://vimeo.com/729256153
 
 Atelier 
 1. Intégrer Autonomx avec Touchdesigner en OSC pour contrôler de la génération 

@@ -14,3 +14,6 @@ Atelier
 1. Intégrer Autonomx avec Touchdesigner en OSC pour contrôler de la génération 
 2. Faire un installation de automatic1111 si votre matériel le permet
 3. Expérimenter avec SDXL en local ou sur le web
+
+Ressources 
+1. Téléchargement Autonomx https://github.com/Xmodal/autonomX
